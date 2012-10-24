@@ -13,5 +13,9 @@ add_lunch_combo slim_i777-userdebug
 add_lunch_combo slim_n7000-userdebug
 add_lunch_combo slim_endeavoru-userdebug
 add_lunch_combo slim_vibrantmtd-userdebug
+add_lunch_combo slim_skyrocket-userdebug
+add_lunch_combo slim_hercules-userdebug
+add_lunch_combo slim_i9100g-userdebug
+add_lunch_combo slim_captivatemtd-userdebug
 add_lunch_combo slim_infuse4g-userdebug
 
